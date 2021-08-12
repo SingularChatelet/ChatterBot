@@ -583,6 +583,7 @@ class ELX:
 class ENG:
     ISO_639_1 = 'en'
     ISO_639 = 'eng'
+    CORE = 'en_core_web_sm'
     ENGLISH_NAME = 'English'
 
 
